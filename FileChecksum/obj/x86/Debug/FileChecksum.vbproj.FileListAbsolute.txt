@@ -1,0 +1,31 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\FileChecksum\bin\Debug\FileChecksum.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\FileChecksum\bin\Debug\FileChecksum.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\FileChecksum\bin\Debug\FileChecksum.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\FileChecksum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\AppData\Local\Temporary Projects\FileChecksum\obj\x86\Debug\FileChecksum.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\FileChecksum\obj\x86\Debug\FileChecksum.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\FileChecksum\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\AppData\Local\Temporary Projects\FileChecksum\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\AppData\Local\Temporary Projects\FileChecksum\obj\x86\Debug\FileChecksum.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\FileChecksum\obj\x86\Debug\FileChecksum.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\FileChecksum\obj\x86\Debug\FileChecksum.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\FileChecksum\FileChecksum\obj\x86\Debug\FileChecksum.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\FileChecksum\FileChecksum\obj\x86\Debug\FileChecksum.xml
+C:\Users\Admin\documents\visual studio 2010\Projects\FileChecksum\FileChecksum\obj\x86\Debug\FileChecksum.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\FileChecksum\FileChecksum\bin\Debug\FileChecksum.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\FileChecksum\FileChecksum\bin\Debug\FileChecksum.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\FileChecksum\FileChecksum\bin\Debug\FileChecksum.xml
+C:\Users\Admin\documents\visual studio 2010\Projects\FileChecksum\FileChecksum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2010\Projects\FileChecksum\FileChecksum\obj\x86\Debug\FileChecksum.Form1.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\FileChecksum\FileChecksum\obj\x86\Debug\FileChecksum.Resources.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\FileChecksum\FileChecksum\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\documents\visual studio 2010\Projects\FileChecksum\FileChecksum\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\FileChecksum\FileChecksum\obj\x86\Debug\FileChecksum.exe
+D:\Projects\FileChecksum\FileChecksum\obj\x86\Debug\FileChecksum.xml
+D:\Projects\FileChecksum\FileChecksum\obj\x86\Debug\FileChecksum.pdb
+D:\Projects\FileChecksum\FileChecksum\bin\Debug\FileChecksum.exe
+D:\Projects\FileChecksum\FileChecksum\bin\Debug\FileChecksum.pdb
+D:\Projects\FileChecksum\FileChecksum\bin\Debug\FileChecksum.xml
+D:\Projects\FileChecksum\FileChecksum\obj\x86\Debug\FileChecksum.Form1.resources
+D:\Projects\FileChecksum\FileChecksum\obj\x86\Debug\FileChecksum.Resources.resources
+D:\Projects\FileChecksum\FileChecksum\obj\x86\Debug\FileChecksum.vbproj.GenerateResource.Cache
